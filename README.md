@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-in--progress-orange?style=flat-square)
+
 # 🏠 Real Estate Lead Generation Bot
 
 This bot scrapes FSBO listings from Zillow and emails them daily using SendGrid.
