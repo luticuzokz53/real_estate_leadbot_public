@@ -1,4 +1,6 @@
 ![Status](https://img.shields.io/badge/status-in--progress-orange?style=flat-square)
+## ⚠️ Project Status
+🚧 Still under development. Key features may be incomplete or require manual setup.
 
 # 🏠 Real Estate Lead Generation Bot
 
